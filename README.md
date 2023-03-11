@@ -2,13 +2,13 @@
 
 Bu repo [Kodluyoruz](https://kodluoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-##Installation
+## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek.)
 ```
 git clone https://github.com/sametaltundag/kodluyoruzilkrepo
 ```
-##Usage
+## Usage
 Projeyi tamamladıktan sonra Vİsual Studio Code programında açınız.
 
 Linux için:
@@ -17,11 +17,11 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-##Contributing
+## Contributing
 
 Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##Lisance
+## Lisance
 
 [MIT](https://opensource.org/license/mit/)
 
