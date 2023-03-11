@@ -13,7 +13,7 @@ Projeyi tamamladıktan sonra Vİsual Studio Code programında açınız.
 
 Linux için:
 ```
-cd kodluyoruzilkrepo`
+cd kodluyoruzilkrepo
 code .
 ```
 
