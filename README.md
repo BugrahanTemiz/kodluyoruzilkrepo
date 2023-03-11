@@ -26,3 +26,5 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 [MIT](https://opensource.org/license/mit/)
 
 ![Kodluyoruz](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)
+
+[Patika profilim için tıklayınız](https://app.patika.dev/bugratem)
